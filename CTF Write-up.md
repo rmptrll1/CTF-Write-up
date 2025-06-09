@@ -55,6 +55,7 @@ I keep this in mind, and continue with the three other flag text files.
 I use `cat` to read them in the same way as before.
 
 They contain:
+
 	Webpage Flag #7: {Fl4g_fl4g_fl4g}
 	A hash: e0ZsNGcyX2ZsNGcyX2ZsNGcyfQ==
 	System Flag #1: {F1nd_Fl4g_Fun}
@@ -87,10 +88,14 @@ I try anothern wide sweep of the file system with another command that narrows t
 `find / -type f -iname '*.txt' -exec grep -H '{' {} \; 2>/dev/null | less`
 
 As before, it looks from the root directory and down with `find /` for standard filetypes, but this time, any file of a *.txt* type. 
+
 `-exec grep -H '{' {} \;`
 This part searches for a *{* character inside each file found, and prints the filename in place of the ``{}
+
 the *-H* lets *grep* know to print the filename as well as the line that matches the *{* character found.
+
 I make sure to supress error messages with `2>/dev/null` again
+
 I use `| less` to be able to scroll through the results at my own pace.
 
 the first page returns two flags I have already see, but also some new flags!
