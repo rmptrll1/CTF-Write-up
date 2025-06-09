@@ -161,7 +161,7 @@ At first this seems like a very genuine page, but there is a sneaky flag hidden 
 
 ``{C0nf1gur4t10n_Fl4g}`` is Webpage Flag #6
 
-I am out of ideas for the Webpage Flags for now, so I move on to the Hash Flags
+That wraps up the Webpage Flags, so I move on to the Hash files
 
 ---
 
