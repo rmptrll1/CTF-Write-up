@@ -13,7 +13,8 @@ After entering the password, I successfully connected and got a terminal on the 
 
 I am tasked to create a new user and create a file, so I create a user and switch to it:
 
-	![Pasted image 20250609125321.png](Pasted%20image%2020250609125321.png)
+![Pasted image 20250609125321.png](Pasted%20image%2020250609125321.png)
+
 
 Then I create a new folder and a text file:
 
