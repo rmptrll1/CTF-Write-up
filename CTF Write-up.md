@@ -256,11 +256,15 @@ I first try unzipping the files.zip and typing the password in, this does not wo
 ![Pasted image 20250609154347.png](Pasted%20image%2020250609154347.png)
 
 I think I spent about 30 minutes trying to look for some kind of pattern, but I couldn't find anything. After a while I noticed that the tryhackme hint also includes the format in which the answer needs to be given, which is a bunch of stars. 12 stars, to be exact.
+
 ``************``
+
 I spent some more time trying to figure out whether I had missed some clue in the lab, something that amoounted to 12 symbols. I tried a bunch of options, including but not limited to:
+
 	Fl4gfl4gfl4g
 	FlagFlagFlag
 	flagflagflag
+ 
 Flags seemed to be the only recurring common denominator.
 I was struggling to find something that "we have used *multiple* times in the past"
 
