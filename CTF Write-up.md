@@ -350,9 +350,8 @@ PORT STATE SERVICE VERSION
 MAC Address: 02:E6:74:71:6D:E7 (Unknown)  
 Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 
-```
-
 </details>
+
 
 
 ---
